@@ -6,7 +6,7 @@ asdfasd
 fsadf
 
 ```blocks
-let x = 0
+let x = 1
 ```
 
 ## Step 2
